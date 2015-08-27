@@ -1,0 +1,27 @@
+{
+  "name": "andreaskiessling/ak-fluidhtml",
+  "type": "typo3-cms-extension",
+  "description": "Create content elements with fluid power",
+  "homepage": "",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "keywords": [
+    "TYPO3 CMS",
+    "fluid"
+  ],
+  "support": {
+    "issues": ""
+  },
+  "require": {
+    "typo3/cms-core": ">=6.2.6,<=8.0"
+  },
+  "replace": {
+    "ak-fluidhtml": "self.version"
+  },
+  "autoload": {
+    "psr-4": {
+      "AndreasKiessling\\AkFluidhtml\\": "Classes"
+    }
+  }
+}
