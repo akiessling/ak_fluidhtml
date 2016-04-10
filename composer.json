@@ -2,7 +2,7 @@
   "name": "andreaskiessling/ak-fluidhtml",
   "type": "typo3-cms-extension",
   "description": "Create content elements with fluid power",
-  "homepage": "",
+  "homepage": "https://github.com/akiessling/ak_fluidhtml",
   "license": [
     "GPL-2.0+"
   ],
@@ -11,7 +11,7 @@
     "fluid"
   ],
   "support": {
-    "issues": ""
+    "issues": "https://github.com/akiessling/ak_fluidhtml/issues"
   },
   "require": {
     "typo3/cms-core": ">=6.2.6,<=8.0"
