@@ -18,7 +18,7 @@ tt_content.akfluidhtml_html.10 >
 mod.wizards {
     newContentElement {
         wizardItems {
-            special {
+            plugins {
                 elements {
                     akfluidhtml_html {
                         icon = ../../../sysext/t3skin/icons/gfx/c_wiz/html.gif
@@ -30,7 +30,6 @@ mod.wizards {
                         }
                     }
                 }
-                show := addToList(akfluidhtml_html)
             }
             
         }
