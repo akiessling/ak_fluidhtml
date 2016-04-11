@@ -12,7 +12,7 @@ Be aware to only allow this content element for admins or very advanced and trus
 Clone it
 
 ```
-https://github.com/akiessling/ak_accordion.git
+https://github.com/akiessling/ak_fluidhtml.git
 ```
 
 or use composer
